@@ -41,7 +41,7 @@ Need to learn how to add hover state on images, and add a smooth transition to h
 ## Author
 
 - Frontend Mentor - [@nehanandi09](https://www.frontendmentor.io/profile/nehanandi09)
-- Twitter - [@nostradamus_nn](https://twitter.com/nostradamus_nn)
+- Twitter - [@nostradamus_nn](https://twitter.com/nnandi10)
 
 ## Acknowledgments
 
