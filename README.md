@@ -7,6 +7,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
 - [Overview](#overview)
   - [The challenge](#the-challenge)
   - [Screenshot](#screenshot)
+  - [Links](#link)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
@@ -27,6 +28,11 @@ Users should be able to:
 ### Screenshot
 
 ![](./images/screenshot_desktop.png)
+
+### Links
+
+- Link to repo: [https://github.com/nehanandi09/nft-preview-card-component-main](https://github.com/nehanandi09/nft-preview-card-component-main)
+- Live site URL: [https://nehanandi09.github.io/nft-preview-card-component-main/](https://nehanandi09.github.io/nft-preview-card-component-main/)
 
 ### Built with
 
